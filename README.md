@@ -1,7 +1,7 @@
 # 注意(attention)
 こちらは「facebookresearch/pifuhd:main.」をforkしたリポジトリーになります
 
-開発がストップしているようですので、forkして利用しております
+メンテナンスがストップしているようですので、forkして一部エラーを修正して利用しております
 
 # [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)](https://shunsukesaito.github.io/PIFuHD/)
 
